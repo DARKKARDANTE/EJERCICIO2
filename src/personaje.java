@@ -12,7 +12,7 @@ public class personaje {
         this.nivel = nivel;
         this.experiencia = experiencia;
         this.vida = vida;
-        this.vivo = vivo;
+        this.vivo = true;
     }
 
 
